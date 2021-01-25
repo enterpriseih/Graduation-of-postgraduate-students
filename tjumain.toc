@@ -1,0 +1,65 @@
+\thispagestyle {only_foot}
+\ttl@change@i {\@ne }{chapter}{0em}{\vspace {0pt}\xiaosi \song \bfseries }{\prechaptername \thecontentslabel \postchaptername \quad }{}{\hspace {.5em}\titlerule *[7pt]{.}\xiaosi \contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\ttl@change@i {\@ne }{section}{2em}{\vspace {0pt}\xiaosi \song }{\thecontentslabel \quad }{}{\hspace {.5em}\titlerule *[7pt]{.}\xiaosi \contentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{4em}{\vspace {0pt}\xiaosi \song }{\thecontentslabel \quad }{}{\hspace {.5em}\titlerule *[7pt]{.}\xiaosi \contentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\contentsline {chapter}{摘\hskip 2em\relax 要}{I}{section*.2}
+\contentsline {chapter}{ABSTRACT}{III}{section*.4}
+\contentsline {chapter}{\numberline {1}绪论}{1}{section*.7}
+\contentsline {section}{\numberline {1.1}课题的研究背景}{1}{section*.8}
+\contentsline {section}{\numberline {1.2}国内外研究现状}{2}{section*.13}
+\contentsline {subsection}{\numberline {1.2.1}超像素分割算法研究现状}{2}{section*.14}
+\contentsline {subsection}{\numberline {1.2.2}图像分割研究现状}{4}{section*.15}
+\contentsline {subsection}{\numberline {1.2.3}利用超像素进行图像分割研究现状}{5}{section*.16}
+\contentsline {section}{\numberline {1.3}论文研究内容和结构安排}{6}{section*.17}
+\contentsline {subsection}{\numberline {1.3.1}论文研究内容}{6}{section*.18}
+\contentsline {subsection}{\numberline {1.3.2}论文结构安排}{6}{section*.19}
+\contentsline {chapter}{\numberline {2}超像素分割和图像分割理论基础}{9}{section*.20}
+\contentsline {section}{\numberline {2.1}深度学习}{9}{section*.21}
+\contentsline {section}{\numberline {2.2}卷积神经网络}{11}{section*.24}
+\contentsline {section}{\numberline {2.3}基于卷积神经网络的图像分割}{13}{section*.28}
+\contentsline {section}{\numberline {2.4}超像素分割算法以及超像素在图像分割中的意义}{16}{section*.31}
+\contentsline {subsection}{\numberline {2.4.1}SLIC超像素分割}{16}{section*.32}
+\contentsline {subsection}{\numberline {2.4.2}基于图的超像素分割}{17}{section*.33}
+\contentsline {subsection}{\numberline {2.4.3}Kruskal算法 VS Boruvka算法}{18}{section*.34}
+\contentsline {subsection}{\numberline {2.4.4}超像素在图像分割中的意义}{19}{section*.35}
+\contentsline {section}{\numberline {2.5}超像素池化层}{19}{section*.36}
+\contentsline {section}{\numberline {2.6}本章小结}{20}{section*.37}
+\contentsline {chapter}{\numberline {3}基于深度学习的超像素分割和图像分割}{21}{section*.38}
+\contentsline {section}{\numberline {3.1}超像素生成}{21}{section*.40}
+\contentsline {section}{\numberline {3.2}超像素相似度}{22}{section*.41}
+\contentsline {section}{\numberline {3.3}损失函数}{23}{section*.42}
+\contentsline {subsection}{\numberline {3.3.1}像素和超像素表示之间的映射}{23}{section*.43}
+\contentsline {subsection}{\numberline {3.3.2}重建损失}{23}{section*.44}
+\contentsline {subsection}{\numberline {3.3.3}紧凑性损失}{24}{section*.45}
+\contentsline {subsection}{\numberline {3.3.4}相似性损失}{24}{section*.46}
+\contentsline {section}{\numberline {3.4}超像素融合}{24}{section*.47}
+\contentsline {section}{\numberline {3.5}网络结构}{25}{section*.49}
+\contentsline {section}{\numberline {3.6}实施细节}{26}{section*.50}
+\contentsline {section}{\numberline {3.7}本章小结}{26}{section*.51}
+\contentsline {chapter}{\numberline {4}基于Boruvka算法和快速模糊C均值聚类的图像分割}{29}{section*.52}
+\contentsline {section}{\numberline {4.1}基于Boruvka算法生成超像素}{29}{section*.54}
+\contentsline {section}{\numberline {4.2}基于超像素的快速模糊C均值聚类}{31}{section*.56}
+\contentsline {section}{\numberline {4.3}本章小结}{32}{section*.57}
+\contentsline {chapter}{\numberline {5}实验结果和分析}{33}{section*.58}
+\contentsline {section}{\numberline {5.1}实验数据集以及评估标准}{33}{section*.59}
+\contentsline {subsection}{\numberline {5.1.1}实验数据集}{33}{section*.60}
+\contentsline {subsection}{\numberline {5.1.2}评估标准}{33}{section*.61}
+\contentsline {section}{\numberline {5.2}消融实验}{37}{section*.66}
+\contentsline {subsection}{\numberline {5.2.1}基于深度学习的超像素分割和图像分割}{37}{section*.67}
+\contentsline {subsubsection}{\numberline {5.2.1.1}实验介绍}{37}{section*.68}
+\contentsline {subsubsection}{\numberline {5.2.1.2}实验结果以及数据分析}{37}{section*.69}
+\contentsline {subsection}{\numberline {5.2.2}基于Boruvka算法和快速模糊C均值聚类的图像分割}{38}{section*.72}
+\contentsline {section}{\numberline {5.3}对比实验}{39}{section*.90}
+\contentsline {subsection}{\numberline {5.3.1}对比算法}{39}{section*.91}
+\contentsline {subsection}{\numberline {5.3.2}实验结果以及数据分析}{39}{section*.92}
+\contentsline {section}{\numberline {5.4}本章小结}{41}{section*.95}
+\contentsline {chapter}{\numberline {6}总结与展望}{43}{section*.96}
+\contentsline {section}{\numberline {6.1}总结}{43}{section*.97}
+\contentsline {section}{\numberline {6.2}展望}{44}{section*.98}
+\contentsline {chapter}{参考文献}{45}{section*.100}
+\contentsline {chapter}{发表论文和参加科研情况说明}{51}{section*.102}
+\contentsline {chapter}{致\hskip 2em\relax 谢}{53}{section*.104}
+\contentsfinish 

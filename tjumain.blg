@@ -1,0 +1,121 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: tjumain.aux
+A level-1 auxiliary file: body/first.aux
+A level-1 auxiliary file: body/second.aux
+A level-1 auxiliary file: body/third.aux
+A level-1 auxiliary file: body/third_second.aux
+A level-1 auxiliary file: body/fouth.aux
+A level-1 auxiliary file: body/fifth.aux
+The style file: TJUThesis.bst
+A level-1 auxiliary file: appendix/publications.aux
+A level-1 auxiliary file: appendix/acknowledgements.aux
+Database file #1: references/reference.bib
+Repeated entry---line 183 of file references/reference.bib
+ : @inproceedings{ren2003learning
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 255 of file references/reference.bib
+ : @inproceedings{sharma2014recursive
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 645 of file references/reference.bib
+ : @article{zeng2017unified
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 657 of file references/reference.bib
+ : @article{ma2016unsupervised
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 668 of file references/reference.bib
+ : @inproceedings{bai2017deep
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 678 of file references/reference.bib
+ : @article{pereyra2017fast
+ :                         ,
+I'm skipping whatever remains of this entry
+-- BUPTThesis.bst version 0.2 (2009/01/25) by Yu Zhang.
+-- http://code.google.com/p/buptthesis/
+-- See the "userguide.pdf" manual for usage information.
+Warning--The editor in 2004WuAHL04 is missing.
+Warning--empty editor in 2004WuAHL04
+Warning--The editor in 2013ChenCWS13 is missing.
+Warning--empty editor in 2013ChenCWS13
+Warning--The editor in CaoWWS12 is missing.
+Warning--empty editor in CaoWWS12
+Warning--The editor in ShawabkaRDJR20 is missing.
+Warning--empty editor in ShawabkaRDJR20
+Warning--The editor in xiao2018unified is missing.
+Warning--empty editor in xiao2018unified
+Warning--The editor in Yan0RW18 is missing.
+Warning--empty editor in Yan0RW18
+Warning--The editor in yan2015object is missing.
+Warning--empty editor in yan2015object
+Too many commas in name 1 of "Mayank Juneja, Andrea Vedaldi, C. V. Jawahar, Andrew Zisserman" for entry juneja2013blocks
+while executing---line 2538 of file TJUThesis.bst
+Warning--The editor in juneja2013blocks is missing.
+Warning--empty editor in juneja2013blocks
+Warning--The editor in zhu2014saliency is missing.
+Warning--empty editor in zhu2014saliency
+Warning--empty pages in zhu2014saliency
+Warning--The editor in shu2013improving is missing.
+Warning--empty editor in shu2013improving
+Warning--The editor in gadde2016superpixel is missing.
+Warning--empty editor in gadde2016superpixel
+Warning--The editor in sharma2014recursive is missing.
+Warning--empty editor in sharma2014recursive
+Warning--The editor in wang2011superpixel is missing.
+Warning--empty editor in wang2011superpixel
+Warning--The editor in yang2013saliency is missing.
+Warning--empty editor in yang2013saliency
+Warning--there's a publisher but no address in abu2015integrative
+Warning--The editor in bai2017deep is missing.
+Warning--empty editor in bai2017deep
+Warning--The editor in long2015fully is missing.
+Warning--empty editor in long2015fully
+Warning--The editor in ronneberger2015u is missing.
+Warning--empty editor in ronneberger2015u
+Warning--The editor in cheng2016hfs is missing.
+Warning--empty editor in cheng2016hfs
+Warning--The editor in krizhevsky2012imagenet is missing.
+Warning--empty editor in krizhevsky2012imagenet
+Warning--The editor in Hu2015Watershed is missing.
+Warning--empty editor in Hu2015Watershed
+Warning--The editor in ren2003learning is missing.
+Warning--empty editor in ren2003learning
+Warning--The editor in li2015superpixel is missing.
+Warning--empty editor in li2015superpixel
+Warning--empty pages in 1967Some
+`editor' is a missing field, not a string, for entry 2003Boruvka
+while executing---line 2538 of file TJUThesis.bst
+Warning--there's a publisher but no address in 2003Boruvka
+Warning--The editor in Zhao2017FLIC is missing.
+Warning--empty editor in Zhao2017FLIC
+Warning--The editor in jampani2018superpixel is missing.
+Warning--empty editor in jampani2018superpixel
+Warning--The editor in ahn2018learning is missing.
+Warning--empty editor in ahn2018learning
+Warning--The editor in kwak2017weakly is missing.
+Warning--empty editor in kwak2017weakly
+Warning--The editor in liu2018deep is missing.
+Warning--empty editor in liu2018deep
+Warning--The editor in 2012AlexNet is missing.
+Warning--empty editor in 2012AlexNet
+Warning--The editor in 2013word2vector is missing.
+Warning--empty editor in 2013word2vector
+Warning--empty pages in 2013word2vector
+Warning--The editor in ioffe2015batch is missing.
+Warning--empty editor in ioffe2015batch
+Warning--The editor in wu2018group is missing.
+Warning--empty editor in wu2018group
+Warning--The editor in jia2014caffe is missing.
+Warning--empty editor in jia2014caffe
+Warning--The editor in kingma2014adam is missing.
+Warning--empty editor in kingma2014adam
+Warning--empty pages in kingma2014adam
+Warning--The editor in khelifi2016gce is missing.
+Warning--empty editor in khelifi2016gce
+Warning--The editor in chen2016scale is missing.
+Warning--empty editor in chen2016scale
+
+Done.
+(There were 8 error messages)
